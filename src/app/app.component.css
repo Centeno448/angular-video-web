@@ -1,0 +1,11 @@
+.table {
+  text-align: center;
+}
+
+.high {
+  background-color: rgba(89, 245, 89, 0.795);
+}
+
+.normal {
+  background-color: rgba(92, 92, 253, 0.897);
+}
